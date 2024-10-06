@@ -22,7 +22,7 @@ body{
     width: 800px;
     height: 100%;
     float: right;
-    background-image: url(image/pic1.png);
+    background-image: url("pic1.png");
     background-size: cover;
     background-position: center;
    }
